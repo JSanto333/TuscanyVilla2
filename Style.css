@@ -1,0 +1,158 @@
+﻿/*font-family: 'Lemonada', cursive; font-family: 'Playfair Display', serif; 
+    font-family: 'Josefin Sans', sans-serif; font-family: 'Abel', sans-serif; 
+    font-family: 'Shadows Into Light', cursive; font-family: 'Gruppo', cursive;*/
+#logoImg {
+    width: 35px;
+    margin-top: 0px;
+    margin-right: 3px;
+    margin-left: 25px;
+}
+p {
+    font-size:15px;
+}
+h1{
+    font-size:50px;
+}
+.centered{
+    text-align:center;
+}
+nav#navvy.navbar.navbar-static-top {
+    margin-bottom: 0px;
+    background-color: #474E5D;
+    color: #FFF6F0;
+}
+li {
+    letter-spacing: 4px;
+    padding-right: 8px;
+}
+ol#dark {
+        color: #474E5D;
+    }
+#navvy a {
+    color: #FFF6F0;
+}
+
+    #navvy a:hover {
+        background: none;
+    }
+    .navbar-header {
+        nav-right:auto;
+    }
+.bgImg {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');   
+    background-size:cover;  
+    padding-left:0px;
+    height:100%;
+    margin: 0px;
+    
+}
+
+.fullWidth{
+    width:100%;   
+ 
+}
+.fullWidth1 {
+    padding:0%;
+}
+#firstSection {
+    text-align: center;
+    font-size: 80px;
+    padding-top: 12px;
+    padding-bottom:0px;
+    color: #FFF6F0;
+    font-family: 'Playfair Display';
+}
+#smallerSection {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Playfair Display';
+    color: #FFF6F0;
+    height:auto;    
+    padding-bottom:185.98px;
+}
+.regBackground {
+    background-color: #474E5D;
+    padding-top:20px;
+    padding-bottom:20px;
+    
+}
+
+#locFirstSection {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 0px;
+    margin-top:0px;
+    color: #FFF6F0;
+    font-family: 'Playfair Display';
+}
+#locSmallerSection {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Playfair Display';
+    color: #FFF6F0;
+    padding-bottom: 20px;
+}
+.button {
+    background-color: #474E5D;
+    color:#FFF6F0;
+}
+.afterLoc{
+    margin: 4px;
+    padding: 30px;
+}
+.beforeH2LocationSection {
+    padding-top:20px
+}
+.afterLocWithBG {
+    margin: 4px;
+    padding: 30px;
+    background-color: #474E5D;
+}
+.whiteLetter {
+    color: #FFF6F0;
+}
+#compress{
+    margin-left:30px;
+    margin-right:5px;
+    padding-left:0px;
+}
+.compressHgt{
+    margin:45px;
+    padding:0px;
+}
+div.height{
+    height:504px;
+}
+.removePad {
+    padding:0px;
+}
+h1.height{
+    height:100px;
+}
+h3.carouselText {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Shadows Into Light';
+    color: #474E5D;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+#compressForm {
+    margin: 45px;
+    padding: 45px;
+}
+form.widthForm {
+    width:700px;
+    padding-right:400px;
+}
+button#buttonRight {
+    float: right;
+}
+.topMargin{
+    margin-top:20px;
+}
+.contactFloat {
+    margin: 4px;
+    padding-top: 30px;
+    padding-bottom:30px;
+}
